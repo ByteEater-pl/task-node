@@ -1,0 +1,1 @@
+A demo app for a recruitment task showcasing Node.js, NestJS, JWT, MongoDB and Swagger.
